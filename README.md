@@ -1,6 +1,6 @@
 # Compatibility tables data
 
-This repository contains the raw data that will generate the compatibility tables on (WebPlatformDocs](http://docs.webplatform.org/wiki/)
+This repository contains the raw data that will generate the compatibility tables on [WebPlatformDocs](http://docs.webplatform.org/wiki/)
 
 ## Status
 

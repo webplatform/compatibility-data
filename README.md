@@ -22,7 +22,7 @@ Edit the `data-human.json` following the same format, commit and make a pull req
 
 ### Checking data
 
-You can use [underscore-cli]() to query and validate the JSON in the file. 
+You can use the awesome [underscore-cli](https://github.com/ddopson/underscore-cli) to query and validate the JSON from the command line.
 
 Here are a few useful commands:
 
@@ -53,3 +53,4 @@ In our case, we want to find the feature "use_strict", in the "javascript" topic
         }
       ]
     }
+

@@ -90205,7 +90205,7 @@
         "jsonselect": ":root > .data > .javascript > .use_strict",
         "contents": {
           "desktop": {
-           "Basic support": {
+            "Basic support": {
               "Chrome": {
                 "13": "y"
               },
@@ -90224,6 +90224,7 @@
             }
           },
           "mobile": {
+            "Basic support": {
              "Android": {
                 "3": "y"
               },
@@ -90242,6 +90243,7 @@
               "Chrome for Android": {
                 "18": "y"
               }
+            }
           }
         },
         "links": [

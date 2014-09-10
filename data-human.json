@@ -90196,63 +90196,6 @@
       }
     },
     "javascript": {
-      "use_strict": {
-       "breadcrumb": [
-          "javascript",
-          "reference",
-          "use_strict"
-        ],
-        "jsonselect": ":root > .data > .javascript > .use_strict",
-        "contents": {
-          "desktop": {
-            "Basic support": {
-              "Chrome": {
-                "13": "y"
-              },
-              "Firefox": {
-                "4": "y"
-              },
-              "Internet Explorer": {
-                "10": "y"
-              },
-              "Opera": {
-                "11.6": "y"
-              },
-              "Safari": {
-                "6": "y"
-              }
-            }
-          },
-          "mobile": {
-            "Basic support": {
-             "Android": {
-                "3": "y"
-              },
-              "Firefox for Android": {
-                "4": "y"
-              },
-              "IE Phone": {
-                "10": "y"
-              },
-              "Opera Mobile": {
-                "11.5": "y"
-              },
-              "Safari Mobile": {
-                "5.1": "y"
-              },
-              "Chrome for Android": {
-                "18": "y"
-              }
-            }
-          }
-        },
-        "links": [
-          {
-            "title": "ECMAScript 5 compatibility table",
-            "url": "http://kangax.github.io/compat-table/es5/#Strict_mode"
-          }
-        ]
-      },
       "infinity": {
         "breadcrumb": [
           "javascript",

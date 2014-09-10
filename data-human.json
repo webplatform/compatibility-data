@@ -90196,6 +90196,43 @@
       }
     },
     "javascript": {
+      "use_strict": {
+       "breadcrumb": [
+          "javascript",
+          "reference",
+          "use_strict"
+        ],
+        "jsonselect": ":root > .data > .javascript > .use_strict",
+        "contents": {
+          "desktop": {
+           "Basic support": {
+              "Chrome": {
+                "?": "y"
+              },
+              "Firefox": {
+                "21": "y"
+              },
+              "Internet Explorer": {
+                "10": "y"
+              },
+              "Opera": {
+                "12": "y"
+              },
+              "Safari": {
+                "6": "y"
+              }
+            }
+          },
+          "mobile": {
+          }
+        },
+        "links": [
+          {
+            "title": "ECMAScript 5 compatibility table",
+            "url": "http://kangax.github.io/compat-table/es5/#Strict_mode"
+          }
+        ]
+      },
       "infinity": {
         "breadcrumb": [
           "javascript",

@@ -1,0 +1,10 @@
+{
+  "name": "compatibility-data",
+  "description": "WebPlatform Docs Compatibility data source file",
+  "homepage": "http://docs.webplatform.org/wiki/WPD:Infrastructure/Components/CompaTables",
+  "dependencies": {"underscore-cli":"*"},
+  "repository": { "type": "git", "url": "git@github.com:webplatform/compatibility-data.git"},
+  "scripts": {
+    "start": "cat data-human.json | underscore print --outfmt dense -o data.json"
+  }
+}

@@ -1,9 +1,20 @@
 # Compatibility tables data
 
-This repository contains the raw data that will generate the compatibility tables on [WebPlatformDocs](http://docs.webplatform.org/wiki/)
+This repository contains the raw data served by the [WebPlatform project](http://www.webplatform.org/) at [docs.webplatform.org/compat/data.json](http://docs.webplatform.org/compat/data.json).
 
-## Status
+To learn more about how the data is used, refer to [WebPlatform Docs Infrastructure CompaTables Component](http://docs.webplatform.org/wiki/WPD:Infrastructure/Components/CompaTables)
 
-About to be deployed in the [live wiki](http://docs.webplatform.org/wiki/).
 
-At this time, its only available form the test wiki at [http://docs.webplatform.org/test/](http://docs.webplatform.org/test/). 
+## To use
+
+Under a GNU/Linux or MacOS, you can use it as a NPM module.
+
+
+### Install
+
+    npm install
+
+### Change data
+
+Edit the `data-human.json` following the same format, commit and make a pull request.
+

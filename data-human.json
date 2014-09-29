@@ -26711,6 +26711,23 @@
               "Safari": {
                 "?": "y"
               }
+            },
+            "disabled attribute": {
+              "Chrome": {
+                "?": "y"
+              },
+              "Firefox": {
+                "?": "y"
+              },
+              "Internet Explorer": {
+                "11.0": "n"
+              },
+              "Opera": {
+                "?": "u"
+              },
+              "Safari": {
+                "?": "y"
+              }
             }
           },
           "mobile": {
@@ -26732,6 +26749,23 @@
               },
               "Safari Mobile": {
                 "?": "y"
+              }
+            },
+            "disabled attribute": {
+              "Android": {
+                "?": "u"
+              },
+              "Firefox Mobile": {
+                "?": "u"
+              },
+              "IE Mobile": {
+                "11.0": "n"
+              },
+              "Opera Mobile": {
+                "?": "u"
+              },
+              "Safari Mobile": {
+                "?": "u"
               }
             }
           }

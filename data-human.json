@@ -45938,13 +45938,10 @@
             },
             "insertAdjacentHTML()": {
               "Chrome": {
-                "1.0": "y"
+                "2": "y"
               },
               "Firefox": {
-                "notes": {
-                  "normal": "(8)"
-                },
-                "?": "u y"
+                "8": "y"
               },
               "Internet Explorer": {
                 "4.0": "y"
@@ -45953,9 +45950,6 @@
                 "7.0": "y"
               },
               "Safari": {
-                "notes": {
-                  "normal": "4.0 (527)"
-                },
                 "4.0": "y"
               }
             },
@@ -46180,6 +46174,23 @@
               },
               "Safari Mobile": {
                 "?": "y"
+              }
+            },
+            "insertAdjacentHTML()": {
+              "Android": {
+                "?": "y"
+              },
+              "Firefox Mobile": {
+                "8": "y"
+              },
+              "IE Phone": {
+                "?": "y"
+              },
+              "Opera Mobile": {
+                "?": "y"
+              },
+              "Safari Mobile": {
+                "3.1": "y"
               }
             }
           }

@@ -84035,7 +84035,7 @@
           "mobile": {
             "Basic support": {
               "Android": {
-                "?": "y"
+                "1.6": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -84044,13 +84044,13 @@
                 "6.0": "y"
               },
               "IE Phone": {
-                "?": "y"
+                "9.0": "y"
               },
               "Opera Mobile": {
-                "?": "y"
+                "10.0": "y"
               },
               "Safari Mobile": {
-                "?": "y"
+                "3.1": "y"
               }
             },
             "transfer argument": {

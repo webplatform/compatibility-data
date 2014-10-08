@@ -32584,22 +32584,22 @@
             },
             "async attribute": {
               "Chrome": {
-                "?": "y"
+                "6": "y"
               },
               "Firefox": {
                 "notes": {
                   "normal": "(1.9.2)"
                 },
-                "?": "u y"
+                "3.6": "y"
               },
               "Internet Explorer": {
                 "10": "y"
               },
               "Opera": {
-                "?": "n"
+                "15": "y"
               },
               "Safari": {
-                "?": "y"
+                "5.1": "y"
               }
             },
             "defer attribute": {
@@ -32654,6 +32654,9 @@
               "Android": {
                 "?": "y"
               },
+              "BlackBerry Browser": {
+                "?": "y"
+              },
               "Firefox Mobile": {
                 "notes": {
                   "normal": "1.0 (1.0)"
@@ -32672,7 +32675,10 @@
             },
             "async attribute": {
               "Android": {
-                "?": "y"
+                "4.0": "y"
+              },
+              "BlackBerry Browser": {
+                "6": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -32681,13 +32687,13 @@
                 "1.0": "y"
               },
               "IE Mobile": {
-                "?": "n"
+                "10": "y"
               },
               "Opera Mobile": {
-                "?": "u"
+                "15": "y"
               },
               "Safari Mobile": {
-                "?": "y"
+                "5.0": "y"
               }
             },
             "defer attribute": {
@@ -52572,22 +52578,22 @@
             },
             "async": {
               "Chrome": {
-                "?": "y"
+                "6": "y"
               },
               "Firefox": {
                 "notes": {
                   "normal": "(1.9.2)"
                 },
-                "?": "u y"
+                "3.6": "y"
               },
               "Internet Explorer": {
                 "10": "y"
               },
               "Opera": {
-                "?": "n"
+                "15": "y"
               },
               "Safari": {
-                "?": "y"
+                "5.1": "y"
               }
             },
             "defer": {
@@ -52639,6 +52645,9 @@
               "Android": {
                 "?": "y"
               },
+              "BlackBerry Browser": {
+                "?": "y"
+              },
               "Firefox Mobile": {
                 "notes": {
                   "normal": "1.0 (1.0)"
@@ -52657,7 +52666,10 @@
             },
             "async": {
               "Android": {
-                "?": "y"
+                "4.0": "y"
+              },
+              "BlackBerry Browser": {
+                "6": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -52666,13 +52678,13 @@
                 "1.0": "y"
               },
               "IE Mobile": {
-                "?": "n"
+                "10": "y"
               },
               "Opera Mobile": {
-                "?": "u"
+                "15": "y"
               },
               "Safari Mobile": {
-                "?": "y"
+                "5.0": "y"
               }
             },
             "defer": {

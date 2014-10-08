@@ -83888,7 +83888,6 @@
                 "10.0": "y"
               },
               "Opera": {
-                "?": "x",
                 "15.0": "y"
               },
               "Safari": {
@@ -83922,19 +83921,21 @@
           "mobile": {
             "Basic support": {
               "Android": {
-                "?": "n"
+                "4.4": "y"
               },
               "BlackBerry Browser": {
+                "10.2": "y",
                 "10.0": "x"
               },
               "Chrome for Android": {
+                "30.0": "y",
                 "16.0": "x"
               },
               "Firefox Mobile": {
-                "?": "u"
+                "24.0": "y"
               },
               "IE Phone": {
-                "?": "u"
+                "10.0": "y"
               },
               "Opera Mobile": {
                 "14.0": "y"

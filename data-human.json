@@ -33741,7 +33741,7 @@
                 "notes": {
                   "normal": "(1.9.2)"
                 },
-                "?": "u y"
+                "3.6": "y"
               },
               "Internet Explorer": {
                 "9.0": "y"
@@ -33750,7 +33750,7 @@
                 "10.5": "y"
               },
               "Safari": {
-                "3.1": "y"
+                "3.2": "y"
               }
             },
             "preload attribute": {
@@ -33940,7 +33940,7 @@
             },
             "poster attribute": {
               "Android": {
-                "?": "u"
+                "2.1": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -33949,13 +33949,13 @@
                 "1.0": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "9": "y"
               },
               "Opera Mobile": {
-                "?": "u"
+                "11.5": "y"
               },
               "Safari Mobile": {
-                "?": "u"
+                "3.1": "y"
               }
             },
             "preload attribute": {

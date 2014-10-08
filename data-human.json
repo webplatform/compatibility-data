@@ -86484,19 +86484,20 @@
           "mobile": {
             "EventSource support": {
               "Android": {
-                "?": "u"
+                "4.4": "y"
               },
               "Firefox Mobile": {
-                "?": "u"
+                "?": "u",
+                "24": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "?": "n"
               },
               "Opera Mobile": {
-                "?": "u"
+                "11.5": "u"
               },
               "Safari Mobile": {
-                "?": "u"
+                "4.0": "u"
               }
             }
           }
@@ -86563,16 +86564,17 @@
                 "4.4": "y"
               },
               "Firefox Mobile": {
-                "?": "u"
+                "?": "u",
+                "24": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "?": "n"
               },
               "Opera Mobile": {
-                "?": "u"
+                "11.5": "y"
               },
               "Safari Mobile": {
-                "?": "u"
+                "4.0": "y"
               }
             }
           }

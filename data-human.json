@@ -46273,14 +46273,19 @@
                 "15": "y"
               },
               "Safari": {
-                "6.0": "x"
+                "6": "x",
+                "7": "y"
               }
             }
           },
           "mobile": {
             "Basic support": {
               "Android": {
-                "?": "u"
+                "4.4": "y"
+              },
+              "BlackBerry Browser": {
+                "10.2": "y",
+                "10.0": "x"
               },
               "Chrome for Android": {
                 "18": "x",
@@ -46293,13 +46298,14 @@
                 "14.0": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "11": "y"
               },
               "Opera Mobile": {
                 "15": "y"
               },
               "Safari Mobile": {
                 "6": "x",
+                "7": "y",
                 "notes": {
                   "prefix": "6 7"
                 }

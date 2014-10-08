@@ -45861,10 +45861,7 @@
                 "?": "y"
               },
               "Firefox": {
-                "notes": {
-                  "normal": "(11)"
-                },
-                "?": "u y"
+                "11": "y"
               },
               "Internet Explorer": {
                 "?": "y"
@@ -46166,6 +46163,23 @@
               },
               "Safari Mobile": {
                 "1.0": "y"
+              }
+            },
+            "outerHTML": {
+              "Android": {
+                "?": "y"
+              },
+              "Firefox Mobile": {
+                "11": "y"
+              },
+              "IE Phone": {
+                "?": "y"
+              },
+              "Opera Mobile": {
+                "?": "y"
+              },
+              "Safari Mobile": {
+                "?": "y"
               }
             }
           }

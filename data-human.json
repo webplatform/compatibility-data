@@ -32626,22 +32626,22 @@
             },
             "async attribute": {
               "Chrome": {
-                "?": "y"
+                "6": "y"
               },
               "Firefox": {
                 "notes": {
                   "normal": "(1.9.2)"
                 },
-                "?": "u y"
+                "3.6": "y"
               },
               "Internet Explorer": {
                 "10": "y"
               },
               "Opera": {
-                "?": "n"
+                "15": "y"
               },
               "Safari": {
-                "?": "y"
+                "5.1": "y"
               }
             },
             "defer attribute": {
@@ -32696,6 +32696,9 @@
               "Android": {
                 "?": "y"
               },
+              "BlackBerry Browser": {
+                "?": "y"
+              },
               "Firefox Mobile": {
                 "notes": {
                   "normal": "1.0 (1.0)"
@@ -32714,7 +32717,10 @@
             },
             "async attribute": {
               "Android": {
-                "?": "y"
+                "4.0": "y"
+              },
+              "BlackBerry Browser": {
+                "6": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -32723,13 +32729,13 @@
                 "1.0": "y"
               },
               "IE Mobile": {
-                "?": "n"
+                "10": "y"
               },
               "Opera Mobile": {
-                "?": "u"
+                "15": "y"
               },
               "Safari Mobile": {
-                "?": "y"
+                "5.0": "y"
               }
             },
             "defer attribute": {
@@ -33777,7 +33783,7 @@
                 "notes": {
                   "normal": "(1.9.2)"
                 },
-                "?": "u y"
+                "3.6": "y"
               },
               "Internet Explorer": {
                 "9.0": "y"
@@ -33786,7 +33792,7 @@
                 "10.5": "y"
               },
               "Safari": {
-                "3.1": "y"
+                "3.2": "y"
               }
             },
             "preload attribute": {
@@ -33976,7 +33982,7 @@
             },
             "poster attribute": {
               "Android": {
-                "?": "u"
+                "2.1": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -33985,13 +33991,13 @@
                 "1.0": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "9": "y"
               },
               "Opera Mobile": {
-                "?": "u"
+                "11.5": "y"
               },
               "Safari Mobile": {
-                "?": "u"
+                "3.1": "y"
               }
             },
             "preload attribute": {
@@ -45897,10 +45903,7 @@
                 "?": "y"
               },
               "Firefox": {
-                "notes": {
-                  "normal": "(11)"
-                },
-                "?": "u y"
+                "11": "y"
               },
               "Internet Explorer": {
                 "?": "y"
@@ -45977,13 +45980,10 @@
             },
             "insertAdjacentHTML()": {
               "Chrome": {
-                "1.0": "y"
+                "2": "y"
               },
               "Firefox": {
-                "notes": {
-                  "normal": "(8)"
-                },
-                "?": "u y"
+                "8": "y"
               },
               "Internet Explorer": {
                 "4.0": "y"
@@ -45992,9 +45992,6 @@
                 "7.0": "y"
               },
               "Safari": {
-                "notes": {
-                  "normal": "4.0 (527)"
-                },
                 "4.0": "y"
               }
             },
@@ -46203,6 +46200,40 @@
               "Safari Mobile": {
                 "1.0": "y"
               }
+            },
+            "outerHTML": {
+              "Android": {
+                "?": "y"
+              },
+              "Firefox Mobile": {
+                "11": "y"
+              },
+              "IE Phone": {
+                "?": "y"
+              },
+              "Opera Mobile": {
+                "?": "y"
+              },
+              "Safari Mobile": {
+                "?": "y"
+              }
+            },
+            "insertAdjacentHTML()": {
+              "Android": {
+                "?": "y"
+              },
+              "Firefox Mobile": {
+                "8": "y"
+              },
+              "IE Phone": {
+                "?": "y"
+              },
+              "Opera Mobile": {
+                "?": "y"
+              },
+              "Safari Mobile": {
+                "3.1": "y"
+              }
             }
           }
         },
@@ -46315,14 +46346,19 @@
                 "15": "y"
               },
               "Safari": {
-                "6.0": "x"
+                "6": "x",
+                "7": "y"
               }
             }
           },
           "mobile": {
             "Basic support": {
               "Android": {
-                "?": "u"
+                "4.4": "y"
+              },
+              "BlackBerry Browser": {
+                "10.2": "y",
+                "10.0": "x"
               },
               "Chrome for Android": {
                 "18": "x",
@@ -46335,13 +46371,14 @@
                 "14.0": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "11": "y"
               },
               "Opera Mobile": {
                 "15": "y"
               },
               "Safari Mobile": {
                 "6": "x",
+                "7": "y",
                 "notes": {
                   "prefix": "6 7"
                 }
@@ -52608,22 +52645,22 @@
             },
             "async": {
               "Chrome": {
-                "?": "y"
+                "6": "y"
               },
               "Firefox": {
                 "notes": {
                   "normal": "(1.9.2)"
                 },
-                "?": "u y"
+                "3.6": "y"
               },
               "Internet Explorer": {
                 "10": "y"
               },
               "Opera": {
-                "?": "n"
+                "15": "y"
               },
               "Safari": {
-                "?": "y"
+                "5.1": "y"
               }
             },
             "defer": {
@@ -52675,6 +52712,9 @@
               "Android": {
                 "?": "y"
               },
+              "BlackBerry Browser": {
+                "?": "y"
+              },
               "Firefox Mobile": {
                 "notes": {
                   "normal": "1.0 (1.0)"
@@ -52693,7 +52733,10 @@
             },
             "async": {
               "Android": {
-                "?": "y"
+                "4.0": "y"
+              },
+              "BlackBerry Browser": {
+                "6": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -52702,13 +52745,13 @@
                 "1.0": "y"
               },
               "IE Mobile": {
-                "?": "n"
+                "10": "y"
               },
               "Opera Mobile": {
-                "?": "u"
+                "15": "y"
               },
               "Safari Mobile": {
-                "?": "y"
+                "5.0": "y"
               }
             },
             "defer": {
@@ -61673,7 +61716,7 @@
                 "10": "y"
               },
               "Opera": {
-                "12.1": "y"
+                "11.6": "y"
               },
               "Safari": {
                 "5.1": "y"
@@ -61692,13 +61735,13 @@
                 "15.0": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "10": "y"
               },
               "Opera Mobile": {
-                "12.0": "y"
+                "11.6": "y"
               },
               "Safari Mobile": {
-                "4.2": "y"
+                "5.0": "y"
               }
             }
           }
@@ -61726,7 +61769,7 @@
                 "notes": {
                   "normal": "(2)"
                 },
-                "?": "u y"
+                "4": "y"
               },
               "Internet Explorer": {
                 "10": "y"
@@ -61757,7 +61800,7 @@
                 "11.6": "y"
               },
               "Safari Mobile": {
-                "4.2": "y"
+                "5.0": "y"
               }
             }
           }
@@ -83930,7 +83973,6 @@
                 "10.0": "y"
               },
               "Opera": {
-                "?": "x",
                 "15.0": "y"
               },
               "Safari": {
@@ -83964,19 +84006,21 @@
           "mobile": {
             "Basic support": {
               "Android": {
-                "?": "n"
+                "4.4": "y"
               },
               "BlackBerry Browser": {
+                "10.2": "y",
                 "10.0": "x"
               },
               "Chrome for Android": {
+                "30.0": "y",
                 "16.0": "x"
               },
               "Firefox Mobile": {
-                "?": "u"
+                "24.0": "y"
               },
               "IE Phone": {
-                "?": "u"
+                "10.0": "y"
               },
               "Opera Mobile": {
                 "14.0": "y"
@@ -84076,7 +84120,7 @@
           "mobile": {
             "Basic support": {
               "Android": {
-                "?": "y"
+                "1.6": "y"
               },
               "Firefox Mobile": {
                 "notes": {
@@ -84085,13 +84129,13 @@
                 "6.0": "y"
               },
               "IE Phone": {
-                "?": "y"
+                "9.0": "y"
               },
               "Opera Mobile": {
-                "?": "y"
+                "10.0": "y"
               },
               "Safari Mobile": {
-                "?": "y"
+                "3.1": "y"
               }
             },
             "transfer argument": {
@@ -86525,19 +86569,20 @@
           "mobile": {
             "EventSource support": {
               "Android": {
-                "?": "u"
+                "4.4": "y"
               },
               "Firefox Mobile": {
-                "?": "u"
+                "?": "u",
+                "24": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "?": "n"
               },
               "Opera Mobile": {
-                "?": "u"
+                "11.5": "u"
               },
               "Safari Mobile": {
-                "?": "u"
+                "4.0": "u"
               }
             }
           }
@@ -86604,16 +86649,17 @@
                 "4.4": "y"
               },
               "Firefox Mobile": {
-                "?": "u"
+                "?": "u",
+                "24": "y"
               },
               "IE Mobile": {
-                "?": "u"
+                "?": "n"
               },
               "Opera Mobile": {
-                "?": "u"
+                "11.5": "y"
               },
               "Safari Mobile": {
-                "?": "u"
+                "4.0": "y"
               }
             }
           }
@@ -86796,7 +86842,9 @@
                 "?": "n"
               },
               "Opera": {
-                "12": "y"
+                "12": "y",
+                "15": "n",
+                "18": "x"
               },
               "Safari": {
                 "?": "n"
@@ -86821,7 +86869,9 @@
                 "?": "n"
               },
               "Opera Mobile": {
-                "12": "y"
+                "12": "y",
+                "15": "n",
+                "16": "x"
               },
               "Safari Mobile": {
                 "?": "n"
@@ -92949,7 +92999,7 @@
                 "15": "y"
               },
               "Safari": {
-                "?": "n"
+                "7.1": "y"
               }
             }
           },
@@ -92971,7 +93021,7 @@
                 "?": "n"
               },
               "Safari Mobile": {
-                "?": "n"
+                "8.0": "n"
               }
             }
           }

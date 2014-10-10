@@ -26711,6 +26711,23 @@
               "Safari": {
                 "?": "y"
               }
+            },
+            "disabled attribute": {
+              "Chrome": {
+                "?": "y"
+              },
+              "Firefox": {
+                "?": "y"
+              },
+              "Internet Explorer": {
+                "11.0": "n"
+              },
+              "Opera": {
+                "?": "u"
+              },
+              "Safari": {
+                "?": "y"
+              }
             }
           },
           "mobile": {
@@ -26733,6 +26750,23 @@
               "Safari Mobile": {
                 "?": "y"
               }
+            },
+            "disabled attribute": {
+              "Android": {
+                "?": "u"
+              },
+              "Firefox Mobile": {
+                "?": "u"
+              },
+              "IE Mobile": {
+                "11.0": "n"
+              },
+              "Opera Mobile": {
+                "?": "u"
+              },
+              "Safari Mobile": {
+                "?": "u"
+              }
             }
           }
         },
@@ -26740,6 +26774,14 @@
           {
             "title": "Original article on MDN in html element fieldset",
             "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset"
+          },
+          {
+            "title": "Internet Explorer bug 817488: input[type=\"file\"] not disabled inside disabled fieldset",
+            "url": "https://connect.microsoft.com/IE/feedbackdetail/view/817488"
+          },
+          {
+            "title": "Internet Explorer bug 962368: Can still edit input[type=\"text\"] within fieldset[disabled]",
+            "url": "https://connect.microsoft.com/IE/feedbackdetail/view/962368/can-still-edit-input-type-text-within-fieldset-disabled"
           }
         ]
       },

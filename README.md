@@ -1,6 +1,6 @@
 # Compatibility tables data
 
-This repository contains the raw data served by the [WebPlatform project](http://www.webplatform.org/) at [docs.webplatform.org/compat/data.json](http://docs.webplatform.org/compat/data.json).
+This repository contains the raw data served by the [WebPlatform project](http://www.webplatform.org/) at [docs.webplatform.org/compat/data.json](https://docs.webplatform.org/compat/data.json).
 
 To learn more about how the data is used, refer to [WebPlatform Docs Infrastructure CompaTables Component](http://docs.webplatform.org/wiki/WPD:Infrastructure/Components/CompaTables)
 
